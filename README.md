@@ -14,12 +14,12 @@ Steam Cloud Updater is a powerful tool designed to seamlessly update Lua files w
 9. Drag and drop all the generated files (**.lua** and **.manifest**) into SteamTools, GreenLuma, or similar tools.
 10. Launch Steam and check your game library — you should now see an update notification.
 
-# **Official Hubs**
+# **🔗 Official Hubs**
 Youtube : [Smart Mods](https://youtube.com/@smart_mods)<br>
 Telegram : [Smart Hubs](https://t.me/smart_hubs)<br>
 Telegram Bot : [Smart Hubs](https://t.me/steamcloudsbot)<br>
 
-# **Donation**
+# **💎 Donation**
 Your contribution helps us improve and expand our services
 [Ko-Fi](https://ko-fi.com/r3verseninja)
 [Saweria](https://saweria.co/R3verseNinja)
