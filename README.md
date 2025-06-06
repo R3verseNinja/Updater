@@ -21,5 +21,5 @@ Telegram Bot : [Smart Hubs](https://t.me/steamcloudsbot)<br>
 
 # **💎 Donation**
 Your contribution helps us improve and expand our services
-[Ko-Fi](https://ko-fi.com/r3verseninja)
+[Ko-Fi](https://ko-fi.com/r3verseninja) and 
 [Saweria](https://saweria.co/R3verseNinja)
